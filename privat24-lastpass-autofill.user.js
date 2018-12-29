@@ -7,7 +7,7 @@
 // @namespace   https://github.com/mintobit
 // @updateURL   https://github.com/mintobit/privat24-lastpass-autofill/raw/master/privat24-lastpass-autofill.user.js
 // @downloadURL https://github.com/mintobit/privat24-lastpass-autofill/raw/master/privat24-lastpass-autofill.user.js
-// @match		https://login-widget.privat24.ua
+// @match       https://login-widget.privat24.ua
 // ==/UserScript==
 
 (function(document) {
