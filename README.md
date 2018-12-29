@@ -1,6 +1,6 @@
 # Privat24 LastPass autofill [![tag](https://img.shields.io/github/tag/mintobit/privat24-lastpass-autofill.svg)](https://github.com/mintobit/privat24-lastpass-autofill/tags)
 
-LastPass can not autofill inputs that don't have "name" attribute. This script adds name="lastpass-p24-phone-numer" to phone element
+LastPass can not autofill inputs that don't have "name" attribute. This script adds name="lastpass-p24-phone-numer" to phone element at Privat24 login page. If you configure LastPass field using that name, it will be able to autofill phone number.
 
 ## Installation
 

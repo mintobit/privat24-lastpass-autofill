@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Privat24 LastPass autofill
 // @version     1.0.0
-// @description LastPass can not autofill inputs that don't have "name" attribute. This script adds name="lastpass-p24-phone-numer" to phone element
+// @description LastPass can not autofill inputs that don't have "name" attribute. This script adds name="lastpass-p24-phone-numer" to phone element at Privat24 login page. If you configure LastPass field using that name, it will be able to autofill phone number.
 // @license     MIT
 // @author      Anton Nizhegorodov
 // @namespace   https://github.com/mintobit
