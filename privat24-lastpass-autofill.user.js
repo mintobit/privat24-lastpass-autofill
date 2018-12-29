@@ -5,8 +5,8 @@
 // @license     MIT
 // @author      Anton Nizhegorodov
 // @namespace   https://github.com/mintobit
-// @updateURL   https://raw.githubusercontent.com/mintobit/privat24-lastpass-autofill/master/privat24-lastpass-autofill.user.js
-// @downloadURL https://raw.githubusercontent.com/mintobit/privat24-lastpass-autofill/master/privat24-lastpass-autofill.user.js
+// @updateURL   https://github.com/mintobit/privat24-lastpass-autofill/raw/master/privat24-lastpass-autofill.user.js
+// @downloadURL https://github.com/mintobit/privat24-lastpass-autofill/raw/master/privat24-lastpass-autofill.user.js
 // ==/UserScript==
 
 (function(document) {
